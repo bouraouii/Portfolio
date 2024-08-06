@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5cae69fa.css",
+    "main.js": "/portfolio/static/js/main.7f253c3c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/clickandcollect.PNG": "/portfolio/static/media/clickandcollect.7d0f1e5d84524f6cf5e3.PNG",
+    "static/media/settings.jpg": "/portfolio/static/media/settings.1a8cf63f7923565fce52.jpg",
+    "static/media/homeimage.PNG": "/portfolio/static/media/homeimage.521c254de4c6af004b05.PNG",
+    "static/media/MEDBERAURESCONNECT-1-1.pdf": "/portfolio/static/media/MEDBERAURESCONNECT-1-1.66a4e5bebef82ef05c34.pdf",
+    "static/media/ui.PNG": "/portfolio/static/media/ui.a20d98a87e75ea7fd00f.PNG",
+    "static/media/about1.png": "/portfolio/static/media/about1.ac587c9399ea5b5d78a6.png",
+    "static/media/women.PNG": "/portfolio/static/media/women.b4d57b3c0c94e31639da.PNG",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.5cae69fa.css.map": "/portfolio/static/css/main.5cae69fa.css.map",
+    "main.7f253c3c.js.map": "/portfolio/static/js/main.7f253c3c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cae69fa.css",
+    "static/js/main.7f253c3c.js"
+  ]
+}
