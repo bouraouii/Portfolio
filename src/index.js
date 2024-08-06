@@ -1,24 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter as Router } from "react-router-dom";
-import ReactGA from "react-ga";
+import "./index.css";
 import App from "./App";
-
-// Initialize Google Analytics
-ReactGA.initialize("G-KBX2FNWKL1"); // Replace with your actual tracking ID
-
-// Track initial page load
-const trackPageView = (location) => {
-  ReactGA.set({ page: location.pathname });
-  ReactGA.pageview(location.pathname);
-};
+import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
-  <Router>
-    <App trackPageView={trackPageView} />
-  </Router>,
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
   document.getElementById("root")
 );
 
-// Initial page view
-trackPageView(window.location);
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
