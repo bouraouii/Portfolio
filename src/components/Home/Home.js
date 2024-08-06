@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { useTranslation } from "react-i18next";
 
-import homeimage from "../../Assets/homeimage.PNG";
+import homeimage from "../../Assets/photo.jpg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";

@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import women from "../../Assets/women.PNG";
+import women from "../../Assets/photo2.png";
 import Tilt from "react-parallax-tilt";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -62,7 +62,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/BelhadjBrahim-Wejden"
+                  href="https://github.com/bouraouii"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -72,7 +72,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/belhadj-brahim-wejden-61882a16b/"
+                  href="https://www.linkedin.com/in/mohamed-bouraoui-262253201/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

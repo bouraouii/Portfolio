@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 import Particle from "../Particle";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about1.png";
+import laptopImg from "../../Assets/photo3.jpg";
 import Toolstack from "./Toolstack";
 
 function About() {
