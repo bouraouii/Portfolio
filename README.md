@@ -3,7 +3,7 @@
   <a href="https://bouraouii.github.io/Portfolio/" target="_blank">portfolio demo</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="src/Assets/demo.PNG" />
+  <img alt="Demo" src="src/Assets/Screenshot_20240806_201055_Chrome.jpg" />
 </div>
 
 <br/>
