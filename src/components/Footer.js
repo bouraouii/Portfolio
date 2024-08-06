@@ -13,7 +13,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>{t("Designed and Developed by Wejden Belhadj Brahim")}</h3>
+          <h3>{t("Designed and Developed by mohamed bouraoui")}</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>
@@ -24,7 +24,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/BelhadjBrahim-Wejden"
+                href="https://github.com/bouraouii"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -34,7 +34,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/belhadj-brahim-wejden-61882a16b/"
+                href="https://www.linkedin.com/in/mohamed-bouraoui-262253201/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"

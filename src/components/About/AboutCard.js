@@ -12,7 +12,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             {t("Hi Everyone, I am")}{" "}
-            <span className="purple">Wejden Belhadj Brahim </span>
+            <span className="purple">mohamed bouraoui </span>
             {t("from")} <span className="purple"> {t("Tunisia")}.</span>
             <br />
             {t(
@@ -32,7 +32,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             {t("Strive to build things that make a difference!")}{" "}
           </p>
-          <footer className="blockquote-footer">Wejden</footer>
+          <footer className="blockquote-footer">mohamed</footer>
         </blockquote>
       </Card.Body>
     </Card>
