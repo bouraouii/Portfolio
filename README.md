@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://belhadjbrahim-wejden.github.io/Portfolio/" target="_blank">portfolio demo</a>
+  <a href="https://bouraouii.github.io/Portfolio/" target="_blank">portfolio demo</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="src/Assets/demo.PNG" />
@@ -13,7 +13,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://belhadjbrahim-wejden.github.io/Portfolio/" target="_blank">wejden portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://bouraouii.github.io/Portfolio/" target="_blank">mohamed portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
