@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import { useTranslation } from "react-i18next";
 
 import Particle from "../Particle";
-import pdf from "../../Assets/../Assets/Portfolio (2).pdf";
+import pdf from "../../Assets/../Assets/Portfolio (3).pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
